@@ -1,5 +1,11 @@
 # Roulette Wheel coding exercise
 
+## Build Instructions
+VS2017
+.Net Core 2.2
+Open the solution roulette-wheel.sln
+
+
 You should write the appropriate classes and tests in the RouletteWheel.Core and RouletteWheel.Tests.NUnit projects accordingly, to model and test the following roulette wheel.
 
 We are interested in the unit tests that model and prove the requirements, and no user-interface is required
