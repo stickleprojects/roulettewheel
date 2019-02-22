@@ -5,7 +5,12 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouletteWheel.Tests.NUnit", "RouletteWheel.Tests.NUnit\RouletteWheel.Tests.NUnit.csproj", "{C470EBF9-4406-46BB-B111-EF92F93C38A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteWheel.Core", "RouletteWheel.Core\RouletteWheel.Core.csproj", "{9564DF5C-CDD0-49A9-8C54-9D4E076922CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RouletteWheel.Core", "RouletteWheel.Core\RouletteWheel.Core.csproj", "{9564DF5C-CDD0-49A9-8C54-9D4E076922CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1E9A7F11-4D7D-4339-BDEC-06DFA52EF5AB}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
